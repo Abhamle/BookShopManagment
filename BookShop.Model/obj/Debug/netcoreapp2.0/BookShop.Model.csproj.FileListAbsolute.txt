@@ -1,0 +1,9 @@
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\bin\Debug\netcoreapp2.0\BookShop.Model.deps.json
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\bin\Debug\netcoreapp2.0\BookShop.Model.dll
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\bin\Debug\netcoreapp2.0\BookShop.Model.pdb
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\obj\Debug\netcoreapp2.0\BookShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\obj\Debug\netcoreapp2.0\BookShop.Model.csproj.CoreCompileInputs.cache
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\obj\Debug\netcoreapp2.0\BookShop.Model.AssemblyInfoInputs.cache
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\obj\Debug\netcoreapp2.0\BookShop.Model.AssemblyInfo.cs
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\obj\Debug\netcoreapp2.0\BookShop.Model.dll
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShop.Model\obj\Debug\netcoreapp2.0\BookShop.Model.pdb

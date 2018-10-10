@@ -1,0 +1,14 @@
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShopManagmentSystem.deps.json
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShopManagmentSystem.runtimeconfig.json
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShopManagmentSystem.runtimeconfig.dev.json
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShopManagmentSystem.dll
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShopManagmentSystem.pdb
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.AssemblyInfo.cs
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.dll
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.pdb
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShop.Model.dll
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\bin\Debug\netcoreapp2.0\BookShop.Model.pdb
+C:\Users\v-abmeng\source\repos\BookShopManagmentSystem\BookShopManagmentSystem\obj\Debug\netcoreapp2.0\BookShopManagmentSystem.csproj.CopyComplete
